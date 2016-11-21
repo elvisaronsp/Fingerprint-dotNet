@@ -1,0 +1,8 @@
+d:\files\documents\visual studio 2015\Projects\Fingerprint Scanner Demo\Fingerprint Scanner Demo\bin\Debug\Fingerprint Scanner Demo.exe.config
+d:\files\documents\visual studio 2015\Projects\Fingerprint Scanner Demo\Fingerprint Scanner Demo\bin\Debug\Fingerprint Scanner Demo.exe
+d:\files\documents\visual studio 2015\Projects\Fingerprint Scanner Demo\Fingerprint Scanner Demo\bin\Debug\Fingerprint Scanner Demo.pdb
+d:\files\documents\visual studio 2015\Projects\Fingerprint Scanner Demo\Fingerprint Scanner Demo\obj\Debug\Fingerprint_Scanner_Demo.frmDemo.resources
+d:\files\documents\visual studio 2015\Projects\Fingerprint Scanner Demo\Fingerprint Scanner Demo\obj\Debug\Fingerprint_Scanner_Demo.Properties.Resources.resources
+d:\files\documents\visual studio 2015\Projects\Fingerprint Scanner Demo\Fingerprint Scanner Demo\obj\Debug\Fingerprint Scanner Demo.csproj.GenerateResource.Cache
+d:\files\documents\visual studio 2015\Projects\Fingerprint Scanner Demo\Fingerprint Scanner Demo\obj\Debug\Fingerprint Scanner Demo.exe
+d:\files\documents\visual studio 2015\Projects\Fingerprint Scanner Demo\Fingerprint Scanner Demo\obj\Debug\Fingerprint Scanner Demo.pdb
